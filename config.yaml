@@ -1,0 +1,6 @@
+address: https://test-stand.gb.ru
+browser: api/chromedriver.exe
+sleep_time: 1
+login: KatrinzZZn
+password: 284ac1db73
+title: Check Text Post
